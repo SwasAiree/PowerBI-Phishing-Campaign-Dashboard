@@ -23,8 +23,8 @@ Each dashboard empowers organizations to identify high-risk departments, evaluat
 
 | File | Description |
 |------|-------------|
-| `BI_Assessment_2.pbix` | The interactive Power BI dashboard file |
-| `Swastik_Airee_Report.pdf` | Full written report explaining dashboard logic, assumptions, business rules, and insights |
+| `Phishing Dashboard.pbix` | The interactive Power BI dashboard file |
+| `Report.pdf` | Full written report explaining dashboard logic, assumptions, business rules, and insights |
 | `/images/` | Folder containing full screenshots of all three dashboards |
 
 ---
@@ -35,19 +35,23 @@ Below are the complete snapshots of each interactive dashboard included in this 
 
 ### 🔹 Phishing Campaign Manager Dashboard
 
-![Phishing Campaign Dashboard](images/full_phishing_dashboard.png)
+<img width="935" height="613" alt="image" src="https://github.com/user-attachments/assets/f9792595-af90-4ef0-a6c3-3275f8e8dd34" />
+
 
 ---
 
 ### 🔹 Individual User Performance Dashboard
 
-![User Performance Dashboard](images/full_user_dashboard.png)
+<img width="983" height="565" alt="image" src="https://github.com/user-attachments/assets/58af62cb-e603-4ec9-a49e-314c012bf4c8" />
+
+
 
 ---
 
 ### 🔹 HR Manager Insights Dashboard
 
-![HR Insights Dashboard](images/full_hr_dashboard.png)
+<img width="979" height="540" alt="image" src="https://github.com/user-attachments/assets/72b90666-f028-4755-9e7c-4757119714e2" />
+
 
 ---
 
@@ -129,7 +133,7 @@ Enables strategic monitoring of training outcomes and risk levels across departm
 
 ## 📷 How to View the Dashboard
 
-1. **Download** the `.pbix` file: [`BI_Assessment_2.pbix`](./BI_Assessment_2.pbix)
+1. **Download** the `.pbix` file
 2. Open in **Microsoft Power BI Desktop** (free from Microsoft Store)
 3. Navigate through the three dashboards:
    - `Phishing Campaign Manager`
@@ -157,13 +161,14 @@ Enables strategic monitoring of training outcomes and risk levels across departm
 
 ---
 
-## 📧 Contact
+## 👤 Author
 
 **Swastik Airee**  
+Business Intelligence Analyst | Cybersecurity Insights | Power BI Dashboarding  
 
-📍 Melbourne, Australia  
-✉️ [your.email@domain.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link) *(optional)*
+---
+
+*This project was developed as part Business Intelligence and Database unit at Deakin University. It demonstrates applied skills in data visualization, dashboard design, and security-focused analytics using simulated phishing campaign data.*
 
 ---
 
